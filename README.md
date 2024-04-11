@@ -30,10 +30,6 @@
 
 ```
 
-### test
-
-- PostMan
-
 ### application.yml
 
 ```yaml
